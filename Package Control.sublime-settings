@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Babel",
+		"BracketHighlighter",
+		"Console Wrap",
+		"FindKeyConflicts",
+		"Git",
+		"GitGutter",
+		"GitSavvy",
+		"ImportJS",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Enhancements",
+		"JavaScriptNext - ES6 Syntax",
+		"JsPrettier",
+		"Markdown Extended",
+		"Package Control",
+		"Predawn",
+		"ProjectManager",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"TerminalView",
+		"TodoReview"
+	]
+}
